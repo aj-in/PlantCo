@@ -4,9 +4,6 @@ This repository contains the comprehensive data visualization of PlantCo's trans
 
 
 
-<img src="https://github.com/user-attachments/assets/10a20e8d-0e69-4a14-b536-3cbaa1d0e594" alt="Data Flowchart" width="600"/>
-
-
 Steps Performed 
 
 
