@@ -5,7 +5,7 @@ This repository contains the comprehensive data visualization of PlantCo's trans
 Steps Performed 
 
 
-### 1) Importing transactional records from MySQL database into PowerBi using connectors
+### 1) Importing transactional records from MySQL database into Power BI using connectors
 
 ![image](https://github.com/user-attachments/assets/7b140867-ebbf-45c0-93f6-f72973805143)
 
@@ -13,7 +13,7 @@ Steps Performed
 ![image](https://github.com/user-attachments/assets/51c9220b-6f46-43bc-993d-601519d5d7cd)
 
 
-### 2)  Used DAX to transform data and constructed a star schema architecture </li>
+### 2)  Used Power Query to transform data and constructed a star schema architecture </li>
 
 ![image](https://github.com/user-attachments/assets/9b251be8-b399-4686-91cc-d6d56e1ee64f)
 
@@ -47,7 +47,7 @@ DAX code:
 https://github.com/user-attachments/assets/2e62d1d4-a02c-4f25-83b2-2f50b8d20cac
 
 
-### 5) Scheduled automated data refresh on Microsoft Fabric
+### 5) Published semantic model on Microsoft Fabric and Scheduled automated data refresh 
 
 ![image](https://github.com/user-attachments/assets/67a279df-5518-4528-9126-f6b351034b6f)
 
