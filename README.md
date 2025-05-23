@@ -46,3 +46,9 @@ DAX code:
 
 https://github.com/user-attachments/assets/2e62d1d4-a02c-4f25-83b2-2f50b8d20cac
 
+
+### 5) Scheduled automated data refresh on Microsoft Fabric
+
+![image](https://github.com/user-attachments/assets/67a279df-5518-4528-9126-f6b351034b6f)
+
+
