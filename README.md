@@ -2,15 +2,23 @@
 This repository contains the comprehensive data visualization of PlantCo's transactional records 
 
 
+
+
+<img src="https://github.com/user-attachments/assets/10a20e8d-0e69-4a14-b536-3cbaa1d0e594" alt="Data Flowchart" width="600"/>
+
+
 Steps Performed 
 
 
 ### 1) Importing transactional records from MySQL database into Power BI using connectors
 
-![image](https://github.com/user-attachments/assets/7b140867-ebbf-45c0-93f6-f72973805143)
+
+<img src="https://github.com/user-attachments/assets/7b140867-ebbf-45c0-93f6-f72973805143" alt="Data Flowchart" width="400"/>
 
 
-![image](https://github.com/user-attachments/assets/51c9220b-6f46-43bc-993d-601519d5d7cd)
+
+
+<img src="https://github.com/user-attachments/assets/51c9220b-6f46-43bc-993d-601519d5d7cd" alt="Data Flowchart" width="595"/>
 
 
 ### 2)  Used Power Query to transform data and constructed a star schema architecture </li>
