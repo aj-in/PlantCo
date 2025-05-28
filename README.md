@@ -1,5 +1,5 @@
 # PlantCo
-This repository contains the comprehensive data visualization of PlantCo's transactional records 
+An end-to-end Power BI Dashboard for visualizing PlantCo's transactional analysis with <ins>MySQL database integration</ins> featuring custom YoY metrics for tracking annual performance, 9 analytical measures, <ins>drill-down<ins> capabilities on plots for fine-grained analysis, and <ins>automated data refreshes</ins> through Microsoft Fabric.
 
 
 
